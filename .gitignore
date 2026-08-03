@@ -1,0 +1,21 @@
+# Generated translations and private source material
+output/*
+!output/.gitkeep
+source/
+private/
+
+# Documents and scans that should not enter the public repository
+*.pdf
+*.epub
+*.mobi
+*.docx
+*.tif
+*.tiff
+
+# System/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.tmp
+*.bak

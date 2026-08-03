@@ -1,0 +1,52 @@
+schema_version: "0.1"
+language: zh-CN
+terms:
+  play_bow:
+    zh: 游戏鞠躬
+    en: Play Bow
+    de: null
+    aliases: []
+    category: Social Behaviour
+    definition_zh: 犬科动物常见的一种游戏信号，典型姿态为前躯降低、后躯抬高。
+    first_use: Dog Behaviour, Evolution, and Cognition
+    notes: 首次出现写作“游戏鞠躬（Play Bow）”；禁用“邀玩姿势”“玩耍邀请”。
+    sources: []
+    status: approved
+
+  meta_signal:
+    zh: 元信号
+    en: Meta-signal
+    de: null
+    aliases:
+      - Meta Signal
+    category: Communication
+    definition_zh: 对后续或同时发生的行为应如何解释提供语境信息的信号。
+    first_use: project_seed
+    notes: 禁用“元讯号”“元标记”；是否带连字符服从引文原文。
+    sources: []
+    status: approved
+
+  appeasement_behaviour:
+    zh: 安抚行为
+    en: Appeasement behaviour
+    de: Beschwichtigungsverhalten
+    aliases:
+      - Appeasement
+    category: Social Behaviour
+    definition_zh: 在社会互动中可能降低冲突或缓和对方反应的一类行为。
+    first_use: project_seed
+    notes: 不自动等同于“顺从行为”；应根据作者理论框架判断。
+    sources: []
+    status: approved
+
+  displacement_activity:
+    zh: 转移活动
+    en: Displacement activity
+    de: Übersprungshandlung
+    aliases: []
+    category: Ethology
+    definition_zh: 在动机冲突或受阻语境下出现、看似与当前情境不直接相关的行为。
+    first_use: project_seed
+    notes: 与“替代行为”及训练语境中的行为替换区分。
+    sources: []
+    status: provisional
